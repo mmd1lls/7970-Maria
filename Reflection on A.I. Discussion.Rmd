@@ -1,0 +1,8 @@
+---
+title: "Maria De Jesus R Notebook"
+output: html_notebook
+---
+
+Reflection on A.I.Discussion
+
+After our discussion on A.I. in class, I found a lot more questions were brought up that were relevant to the article. I appreciated this article being written from a scientific (academic)  perspective, but I think this topic is part of a much broader conversation on how humans relate to the changing technological world. I think there were and are consequences to these changes that we need to prepare for. As scientist we have to recognize the discrepancies of access to many of these materials. Sure, in the scientific community we are already having this conversation in the United States but access is important to consider when we talk about the future. For countries that already lack direct access to publishing research articles and conducting research, the impacts of this technology could push their work back even further . Researchers in the global North are often already prioritized in terms of the funding they get for research and even the problems they get to solve because of these results. We already know science disproportionately benefits different people and is something that needs to be kept in mind when we begin creating legislation to control the use of artificial intellegence. 
