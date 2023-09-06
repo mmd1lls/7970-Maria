@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Discussion on Equitable hiring practices 
+
+For the class discussion on equitable hiring practices, I enjoyed discussing how to create a fully tangible plan for more equitable hiring practices. Both the students and the instructors brought up a lot of good points about how much work and effort implementing these ideas would be. Looking at the paper and tasks from a realist perspective is essential because there has to be a way to get everyone on board with these practices, especially those on the actual hiring committees. We know that not everyone is invested in the Diversity and Inclusion movement and having incentives for those that aren't is another problem that needs to be addressed. 
+
+An aspect of this conversation that I find valuable is acknowledging the feelings involved in these initiatives. Both from academics from  minoritized groups and those in positions of power, or with identities that are already prioritized in the scientific community. I was listening to students with different backgrounds from myself and I really valued hearing their perspectives and talking about how the social systems in place in our countries are diffeent and by default issues of diversity must be adresssed differently. An enlightening idea to consider is that we must be flexible and adaptable when we move through the challanges of creating spaces where everyone feels welcome. 
