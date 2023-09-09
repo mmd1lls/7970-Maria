@@ -1,0 +1,21 @@
+---
+title: "Maria De Jesus R Notebook"
+output: html_notebook
+---
+
+<span style="color:red">Hey Maria, going forward, please keep your journal in a single .rmd document. I've cut and pasted from the two documents you created to demonstrate what we're looking for. The benefit of Github is that it allows you to continually make changes to a document and it will keep track of the iterative changes you're making, so we want you to learn and explore that functionality. Each week, download your RMD journal file from Github (which should contain comments from Ani or me) and simply add to it then upload the new version (keeping the same file name). The upload will create a new version of the file, but also hang on to the old version so you can look back at any point. Let me know if you have any questions! - Jonathon</span>
+
+
+## Reflection on A.I.Discussion
+
+After our discussion on A.I. in class, I found a lot more questions were brought up that were relevant to the article. I appreciated this article being written from a scientific (academic)  perspective, but I think this topic is part of a much broader conversation on how humans relate to the changing technological world. I think there were and are consequences to these changes that we need to prepare for. As scientist we have to recognize the discrepancies of access to many of these materials. Sure, in the scientific community we are already having this conversation in the United States but access is important to consider when we talk about the future. For countries that already lack direct access to publishing research articles and conducting research, the impacts of this technology could push their work back even further . Researchers in the global North are often already prioritized in terms of the funding they get for research and even the problems they get to solve because of these results. We already know science disproportionately benefits different people and is something that needs to be kept in mind when we begin creating legislation to control the use of artificial intelligence. 
+
+<span style="color:red">I hadn't really thought about this. I've been viewing AI technology as a potential benefit to communities that have had trouble publishing previously (e.g., folks who don't use English as their first language), but you're right. Those who simply lack access to AI tools are just going to fall further behind. - Jonathon</span>
+
+## Discussion on Equitable hiring practices 
+
+For the class discussion on equitable hiring practices, I enjoyed discussing how to create a fully tangible plan for more equitable hiring practices. Both the students and the instructors brought up a lot of good points about how much work and effort implementing these ideas would be. Looking at the paper and tasks from a realist perspective is essential because there has to be a way to get everyone on board with these practices, especially those on the actual hiring committees. We know that not everyone is invested in the Diversity and Inclusion movement and having incentives for those that aren't is another problem that needs to be addressed. 
+
+An aspect of this conversation that I find valuable is acknowledging the feelings involved in these initiatives. Both from academics from  minoritized groups and those in positions of power, or with identities that are already prioritized in the scientific community. I was listening to students with different backgrounds from myself and I really valued hearing their perspectives and talking about how the social systems in place in our countries are different and by default issues of diversity must be addressed differently. An enlightening idea to consider is that we must be flexible and adaptable when we move through the challenges of creating spaces where everyone feels welcome.
+
+<span style="color:red">Yeah, I too was interested in hearing how the social systems in different countries are going to create novel challenges to increasing diversity in academia. Your voice was super helpful in class, particularly on this discussion. - Jonathon</span>
