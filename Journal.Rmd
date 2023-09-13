@@ -1,6 +1,8 @@
 ---
 title: "Maria De Jesus R Notebook"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 <span style="color:red">Hey Maria, going forward, please keep your journal in a single .rmd document. I've cut and pasted from the two documents you created to demonstrate what we're looking for. The benefit of Github is that it allows you to continually make changes to a document and it will keep track of the iterative changes you're making, so we want you to learn and explore that functionality. Each week, download your RMD journal file from Github (which should contain comments from Ani or me) and simply add to it then upload the new version (keeping the same file name). The upload will create a new version of the file, but also hang on to the old version so you can look back at any point. Let me know if you have any questions! - Jonathon</span>
@@ -11,6 +13,10 @@ output: html_notebook
 After our discussion on A.I. in class, I found a lot more questions were brought up that were relevant to the article. I appreciated this article being written from a scientific (academic)  perspective, but I think this topic is part of a much broader conversation on how humans relate to the changing technological world. I think there were and are consequences to these changes that we need to prepare for. As scientist we have to recognize the discrepancies of access to many of these materials. Sure, in the scientific community we are already having this conversation in the United States but access is important to consider when we talk about the future. For countries that already lack direct access to publishing research articles and conducting research, the impacts of this technology could push their work back even further . Researchers in the global North are often already prioritized in terms of the funding they get for research and even the problems they get to solve because of these results. We already know science disproportionately benefits different people and is something that needs to be kept in mind when we begin creating legislation to control the use of artificial intelligence. 
 
 <span style="color:red">I hadn't really thought about this. I've been viewing AI technology as a potential benefit to communities that have had trouble publishing previously (e.g., folks who don't use English as their first language), but you're right. Those who simply lack access to AI tools are just going to fall further behind. - Jonathon</span>
+
+<mark> You can use a separator between the weekly summaries as shown below. Ani
+
+---
 
 ## Discussion on Equitable hiring practices 
 
