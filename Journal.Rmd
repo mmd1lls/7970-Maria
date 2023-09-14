@@ -1,8 +1,6 @@
 ---
 title: "Maria De Jesus R Notebook"
-output:
-  html_document:
-    df_print: paged
+output: html_notebook
 ---
 
 <span style="color:red">Hey Maria, going forward, please keep your journal in a single .rmd document. I've cut and pasted from the two documents you created to demonstrate what we're looking for. The benefit of Github is that it allows you to continually make changes to a document and it will keep track of the iterative changes you're making, so we want you to learn and explore that functionality. Each week, download your RMD journal file from Github (which should contain comments from Ani or me) and simply add to it then upload the new version (keeping the same file name). The upload will create a new version of the file, but also hang on to the old version so you can look back at any point. Let me know if you have any questions! - Jonathon</span>
@@ -14,10 +12,6 @@ After our discussion on A.I. in class, I found a lot more questions were brought
 
 <span style="color:red">I hadn't really thought about this. I've been viewing AI technology as a potential benefit to communities that have had trouble publishing previously (e.g., folks who don't use English as their first language), but you're right. Those who simply lack access to AI tools are just going to fall further behind. - Jonathon</span>
 
-<mark> You can use a separator between the weekly summaries as shown below. Ani
-
----
-
 ## Discussion on Equitable hiring practices 
 
 For the class discussion on equitable hiring practices, I enjoyed discussing how to create a fully tangible plan for more equitable hiring practices. Both the students and the instructors brought up a lot of good points about how much work and effort implementing these ideas would be. Looking at the paper and tasks from a realist perspective is essential because there has to be a way to get everyone on board with these practices, especially those on the actual hiring committees. We know that not everyone is invested in the Diversity and Inclusion movement and having incentives for those that aren't is another problem that needs to be addressed. 
@@ -25,3 +19,9 @@ For the class discussion on equitable hiring practices, I enjoyed discussing how
 An aspect of this conversation that I find valuable is acknowledging the feelings involved in these initiatives. Both from academics from  minoritized groups and those in positions of power, or with identities that are already prioritized in the scientific community. I was listening to students with different backgrounds from myself and I really valued hearing their perspectives and talking about how the social systems in place in our countries are different and by default issues of diversity must be addressed differently. An enlightening idea to consider is that we must be flexible and adaptable when we move through the challenges of creating spaces where everyone feels welcome.
 
 <span style="color:red">Yeah, I too was interested in hearing how the social systems in different countries are going to create novel challenges to increasing diversity in academia. Your voice was super helpful in class, particularly on this discussion. - Jonathon</span>
+
+
+## Reproducibility Crisis discussion 
+The discussion of reproducibility was an important one to have given the context of how we as scientists conduct experiments. It is a genuine problem that methods of papers are not being able to be replicated. This leads us to unreliable results. The conversation in some ways was difficult for me because I really don't know that there is a perfect solution to the problem. Humans inherently will have many of the biases described in the paper and sure we can change how we talk about methods or have other people or computers validate them but we can't change the bias. Especially because humans tend to adapt to the most efficient solution or what is easiest for their brain can make sense of.
+
+The topic of selective exclusion also confuses me as a new student. I understand that when we submit to a journal, the goal is to answer some novel question or add to the current literature. But I think that when science as a whole views the goal as publishing, we aren't necessarily moving forward in our work. It's like publishing bad work just to put something out. When an artist releases bad music in a rush to stay relevant instead of for the music. I find its also contradictory because if we are told to include alternative reasoning for our results in our discussion, why would we not include results or data that goes against our hypothesis? That does not make sense to me other than the obvious need to publish for recognition and financial gain. 
