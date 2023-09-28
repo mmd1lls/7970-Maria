@@ -1,0 +1,33 @@
+---
+title: "Reproducibility crisis"
+output: html_document
+date: "2023-09-28"
+---
+
+
+## Reproducibility crsis
+Our discussion about reproducibility immediately reminded me of my experience in biology labs as an undergraduate student. I remember taking classes where a large part of the course objectives was learning how to conduct research and write a paper. I often found that many students would falsify their data just to be able to say something or form a conclusion, myself included. At no point was this ever addressed in that course which I found problematic. I think that trend continues on into the future career of many scientists because these maladaptive habits and thought patterns form early on in learning. Like I mentioned in class, I believe education is part of the issue of reproducibility as we have been taught to expect a certain outcome and if an experiment doesn't meet that outcome we often find shame or dissapointment in that. I think many students and those who later become scientists, were never taught how to fail with grace. Failure runs deeper than just a test. When our results are not what is expected or what our stakeholders want to see, there is a lot of pressure against scientist because they fear that they have failed. Whether it is a fear of failure, fear of losing funding or credibility, these anxieties are driving the reproducibility crisis. Overall, though I think that finances are the main driver of fudging results and not verifying our work, there is also a psychological factor at play.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
